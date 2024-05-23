@@ -1,6 +1,6 @@
 # SQLAlchemy-Challenge
 ### Module 10 Challenge
-
+---
 :globe_with_meridians:
 **Data source files:**
   - **/Vacation_In_Honolulu/Resources/**
